@@ -4,69 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af6b550-0b51-4910-aa22-83736a0b10ad" name="Changes" comment="github등록">
-      <change afterPath="$PROJECT_DIR$/build/bootJarMainClassName" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/haedal/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/haedal/web/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/haedal/web/dto/HelloResponseDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/test/haedal/web/HelloControllerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/haedal-0.0.1-SNAPSHOT-plain.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/haedal-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/haedal-1.0-SNAPSHOT-plain.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/haedal-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/haedal.web.HelloControllerTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/haedal.web.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/resolvedMainClassName" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-haedal.web.HelloControllerTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/domain/posts/Posts$PostsBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/domain/posts/Posts.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/domain/posts/PostsRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/service/posts/PostsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/web/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/web/PostsApiController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/web/dto/HelloResponseDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/web/dto/PostsResponseDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/web/dto/PostsSaveRequestDto$PostsSaveRequestDtoBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/web/dto/PostsSaveRequestDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/web/dto/PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/web/dto/PostsUpdateRequestDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/org/example/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/com/fanta/book/springboot/domain/posts/PostsRepositoryTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/com/fanta/book/springboot/web/PostsApiControllerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/com/fanta/book/springboot/web/dto/HelloResponseDtoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/domain/posts/Posts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/domain/posts/PostsRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/service/posts/PostsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/PostsApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/dto/HelloResponseDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/dto/PostsResponseDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/dto/PostsSaveRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/dto/PostsUpdateRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fanta/book/springboot/domain/posts/PostsRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fanta/book/springboot/web/HelloControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fanta/book/springboot/web/PostsApiControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fanta/book/springboot/web/dto/HelloResponseDtoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="3af6b550-0b51-4910-aa22-83736a0b10ad" name="Changes" comment="230501">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/domain/BaseTimeEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/domain/posts/Posts$PostsBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/domain/posts/Posts$PostsBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/domain/posts/Posts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/domain/posts/Posts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/service/posts/PostsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/service/posts/PostsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/web/PostsApiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/fanta/book/springboot/web/PostsApiController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/fanta/book/springboot/domain/posts/PostsRepositoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/fanta/book/springboot/domain/posts/PostsRepositoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/fanta/book/springboot/web/PostsApiControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/fanta/book/springboot/web/PostsApiControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/domain/posts/Posts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/domain/posts/Posts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/domain/posts/PostsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/domain/posts/PostsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/service/posts/PostsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/service/posts/PostsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/PostsApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/PostsApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/dto/PostsResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/dto/PostsResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/dto/PostsSaveRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/dto/PostsSaveRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/dto/PostsUpdateRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fanta/book/springboot/web/dto/PostsUpdateRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fanta/book/springboot/domain/posts/PostsRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fanta/book/springboot/domain/posts/PostsRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fanta/book/springboot/web/PostsApiControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fanta/book/springboot/web/PostsApiControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,17 +178,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostsRepositoryTest.게시글저장_불러오기" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PostsApiControllerTest.Posts_수정된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="haedal.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fanta.book.springboot.domain.posts.*" />
+          <option name="PATTERN" value="com.fanta.book.springboot.web.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fanta.book.springboot.domain.posts" />
-      <option name="MAIN_CLASS_NAME" value="com.fanta.book.springboot.domain.posts.PostsRepositoryTest" />
-      <option name="METHOD_NAME" value="게시글저장_불러오기" />
+      <option name="PACKAGE_NAME" value="com.fanta.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.fanta.book.springboot.web.PostsApiControllerTest" />
+      <option name="METHOD_NAME" value="Posts_수정된다" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -240,10 +197,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.PostsApiControllerTest.Posts_등록된다" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.PostsApiControllerTest" />
-        <item itemvalue="JUnit.PostsApiControllerTest.Posts_등록된다" />
-        <item itemvalue="JUnit.PostsRepositoryTest.게시글저장_불러오기" />
       </list>
     </recent_temporary>
   </component>
@@ -270,12 +226,31 @@
       <option name="project" value="LOCAL" />
       <updated>1680443239427</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="230501">
+      <created>1682939003732</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682939003732</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore 등록" />
     <MESSAGE value="github등록" />
-    <option name="LAST_COMMIT_MESSAGE" value="github등록" />
+    <MESSAGE value="230501" />
+    <option name="LAST_COMMIT_MESSAGE" value="230501" />
   </component>
 </project>
