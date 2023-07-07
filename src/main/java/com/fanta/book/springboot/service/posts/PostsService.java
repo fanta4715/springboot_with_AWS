@@ -12,7 +12,7 @@ import org.springframework.transaction.annotation.Transactional;
 /*
 * 서비스에서는 비즈니스 로직을 처리하는 것이 아니다
 * 트랜잭션, 도메인 간 순서 보장의 역할만 한다
-*
+* repository에서 디폴트로 만들어지는 CRUD함수는 파라미터가 Dto가 아니다!!
 * */
 @RequiredArgsConstructor //생성자를 통해 의존성 주입함
 @Service
